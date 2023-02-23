@@ -1,0 +1,31 @@
+body {
+    background-color: dodgerblue;
+}
+
+h1, h2 {
+    color: white;
+    text-align: center;
+    font-family: Verdana;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+
+#textoenverde {
+    color:green;
+}
+
+.texto-grande {
+    font-size: 100px;
+}
+
+.texto-grande2 {
+    font-size: 700px;
+}
+
+.color-fondo {
+    background-color: rgb(148, 225, 255);
+}
